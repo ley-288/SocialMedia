@@ -1,9 +1,4 @@
 <?php
-/**
- * Created by lvntayn
- * Date: 09/06/2017
- * Time: 05:00
- */
 
 namespace App\Library;
 

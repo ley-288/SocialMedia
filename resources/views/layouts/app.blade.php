@@ -26,7 +26,7 @@
 </head>
 <body>
 <div id="app">
-    <nav class="navbar navbar-default navbar-static-top navbar-around">
+    <nav class="navbar navbar-default navbar-static-top navbar-around" style="background-color:red;">
         <div class="container">
             <div class="navbar-header">
 
@@ -40,7 +40,7 @@
 
                 <!-- Branding Image -->
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="{{ asset('images/logo.png') }}" alt="" />
+                    {{--<img src="{{ asset('images/logo.png') }}" alt="" />--}}
                 </a>
             </div>
 

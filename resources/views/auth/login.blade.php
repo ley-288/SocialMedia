@@ -2,7 +2,7 @@
     <input type="hidden" value="login" name="tab" />
     {{ csrf_field() }}
 
-    <h2>Connect with around.kim to people!</h2>
+    <h2>Connect to people!</h2>
 
 
 
