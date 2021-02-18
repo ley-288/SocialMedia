@@ -1,7 +1,5 @@
 
 ### Installation
-* git clone https://github.com/lvntayn/laravel-social-network.git projectname
-* cd projectname
 * composer install
 * php artisan key:generate to regenerate secure key
 * create new database and edit .env file for DB settings
